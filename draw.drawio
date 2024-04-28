@@ -1,0 +1,62 @@
+<mxfile host="65bd71144e">
+    <diagram id="wdhEVez5DUo1RXd9MEDQ" name="Page-1">
+        <mxGraphModel dx="1595" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+                    <mxGeometry y="40" width="680" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Bootstrap" style="html=1;shadow=0;dashed=0;fontSize=16;align=left;spacing=2;spacingLeft=55;strokeColor=#FFFFFF;strokeWidth=0;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry y="70" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.logo;fillColor=#54407A;strokeColor=none;sketch=0;" vertex="1" parent="12">
+                    <mxGeometry width="40" height="40" relative="1" as="geometry">
+                        <mxPoint x="10" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="Home" style="fontSize=14;align=center;strokeWidth=0;strokeColor=none;" vertex="1" parent="12">
+                    <mxGeometry width="70" height="40" relative="1" as="geometry">
+                        <mxPoint x="130" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="About me" style="fontSize=14;align=center;strokeWidth=0;strokeColor=none;" vertex="1" parent="12">
+                    <mxGeometry x="190" y="10" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Navbar" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="230" width="800" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="15">
+                    <mxGeometry width="50" height="40" relative="1" as="geometry">
+                        <mxPoint x="140" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Dropdown" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=right;spacingRight=20;" vertex="1" parent="15">
+                    <mxGeometry width="100" height="40" relative="1" as="geometry">
+                        <mxPoint x="190" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="shape=triangle;direction=south;fillColor=#7C7C7D;strokeColor=none;perimeter=none;" vertex="1" parent="18">
+                    <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+                        <mxPoint x="-17" y="-2.5" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="Disabled" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#ADAEAF;align=center;" vertex="1" parent="15">
+                    <mxGeometry width="80" height="40" relative="1" as="geometry">
+                        <mxPoint x="290" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#33A64C;strokeColor=#33A64C;fillColor=none;" vertex="1" parent="15">
+                    <mxGeometry x="1" width="70" height="40" relative="1" as="geometry">
+                        <mxPoint x="-80" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="15">
+                    <mxGeometry x="1" width="180" height="40" relative="1" as="geometry">
+                        <mxPoint x="-270" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
